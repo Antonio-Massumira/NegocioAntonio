@@ -1,0 +1,24 @@
+*{
+  margin: 0;  
+  font-family: verdana;
+  text-align: justify;
+}
+
+h1:hover{
+    background-color: rgb(47, 0, 255);
+    color: azure;
+}
+
+.cor{
+    background-color: rgb(47, 0, 255);  
+}
+
+.corh1{
+    color: rgb(47, 0, 255);
+}
+
+.card:hover{
+    border: 2px solid rgb(47, 0, 255);
+    box-sizing: border-box;
+    background-color: rgb(44, 44, 44);
+}
